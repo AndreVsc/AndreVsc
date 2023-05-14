@@ -16,3 +16,5 @@
  </div>
 
 ##
+
+![Snake animation](https://github-readme-stats.vercel.app/api?username=AndreVsc)
