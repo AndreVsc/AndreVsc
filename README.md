@@ -17,4 +17,4 @@
 
 ##
 
-![Snake animation](https://github-readme-stats.vercel.app/api?username=AndreVsc)
+![Snake animation](https://github.com/AndreVsc/AndreVsc/edit/main/)
