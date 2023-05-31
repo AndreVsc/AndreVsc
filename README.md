@@ -1,6 +1,6 @@
 ## Olaaá sou André, estágriario em desenvolvimento Web !
 
-  •  Tenho 19 anos , atualmente estou cursando o ensino superior no Instituto Federal de São Paulo em Análise em Desenvolvimento de Sistemas. Meu desenvolvimento tanti em front-end quanto em back-end é alimentado pela minha força e paixão pela área.
+  •  Tenho 19 anos , atualmente estou cursando o ensino superior no Instituto Federal de São Paulo em Análise em Desenvolvimento de Sistemas. Meu desenvolvimento tanto em front-end quanto em back-end é alimentado pela minha força e desempenho na área.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true&card_width=900px)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
