@@ -1,4 +1,4 @@
-## Olaaá sou André, estágriario em desenvolvimento Web !
+## Olaa sou André, estágriario em desenvolvimento Web !
 
   •  Tenho 19 anos , atualmente estou cursando o ensino superior no Instituto Federal de São Paulo em Análise em Desenvolvimento de Sistemas. Meu desenvolvimento tanto em front-end quanto em back-end é alimentado pela minha força e desempenho na área.
 
