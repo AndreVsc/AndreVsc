@@ -1,6 +1,7 @@
-## Olaa sou André, estágriario em desenvolvimento Web !
+## Opa sou André, disponível como estágriario em desenvolvimento Web !
 
-  •  Tenho 19 anos , atualmente estou cursando o ensino superior no Instituto Federal de São Paulo em Análise em Desenvolvimento de Sistemas. Meu desenvolvimento tanto em front-end quanto em back-end é alimentado pela minha força e desempenho na área.
+  •  Cursando o Análise em Desenvolvimento de Sistemas no IFSP. 
+  •  Meu desenvolvimento tanto em front-end quanto em back-end, possuo uma grande paixão pela área!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true&card_width=900px)
 
