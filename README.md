@@ -1,6 +1,6 @@
 ## Opa sou André, disponível como estágriario em desenvolvimento Web !
 
-  <p> •  Cursando o Análise em Desenvolvimento de Sistemas no IFSP. \n
+  <p> •  Cursando o Análise em Desenvolvimento de Sistemas no IFSP. <br>
   •  Meu desenvolvimento tanto em front-end quanto em back-end, possuo uma grande paixão pela área!</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true&card_width=900px)
