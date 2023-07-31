@@ -1,7 +1,7 @@
-## Opa sou André, estsgiário WEB!
+## Meu nome é André Vicor Soares Castro, estsgiário Front-end!
 
   <p> 
-  •  André Victor <br>
+  •  Atualmente possuo 19 anos.<br>
   •  Cursando Análise em Desenvolvimento de Sistemas no IFSP.  <br>
   •  Disponibilidade em front-end e back-end. <br>
   •  Site/Portifólio: <a href="https://andrevsc.github.io">andrevsc.github.com</a> </p>
