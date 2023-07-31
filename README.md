@@ -1,10 +1,10 @@
-## Meu nome é André Vicor Soares Castro, estsgiário Front-end!
+## Meu nome é André Vicor Soares Castro, estagiário Front-end!
 
   <p> 
   •  Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
   •  Disponibilidade em front-end e back-end. <br>
   •  Atualmente possuo 19 anos.<br>
-  •  Meu <a href="https://andrevsc.github.io">site</a> está aberto á visitas!</p>
+  •  Meu <a href="https://andrevsc.github.io">site</a> está aberto para visitas!</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true&card_width=900px)
 
