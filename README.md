@@ -1,9 +1,9 @@
-## Opa sou André, disponível como estágriario em desenvolvimento Web !
+## Opa sou André, estsgiário WEB!
 
   <p> 
-  •  Nome: André <br>
-  •  Curso: Análise em Desenvolvimento de Sistemas no IFSP. <br>
-  •  Interesse: front-end e back-end. <br>
+  •  André Victor <br>
+  •  Cursando Análise em Desenvolvimento de Sistemas no IFSP.  <br>
+  •  Disponibilidade em front-end e back-end. <br>
   •  Site/Portifólio: <a href="https://andrevsc.github.io">andrevsc.github.com</a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true&card_width=900px)
