@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=AndreVsc&layout=compact&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVsc&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-##
+
+## 
+
 <div>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
