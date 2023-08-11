@@ -1,14 +1,13 @@
 ## Meu nome é André Vicor Soares Castro, estagiário Front-end!
 
   <p> 
-  •  Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
-  •  Disponibilidade em front-end e back-end. <br>
-  •  Atualmente possuo 19 anos.<br>
-  •  Meu <a href="https://andrevsc.github.io">site</a> está aberto para visitas!</p>
+    Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
+    Disponibilidade em front-end e back-end. <br>
+  </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=AndreVsc&layout=compact&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVsc&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=AndreVsc&layout=compact&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVsc&layout=compact&langs_count=7&theme=transparent&count_private=true"/>
 </div>
 
 ## 
