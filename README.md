@@ -1,4 +1,4 @@
-## Meu nome é André Vicor Soares Castro, estagiário Front-end!
+## Meu nome é André , estagiário Front-end!
 
   <p> 
     Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
@@ -12,10 +12,16 @@
 
 ## 
 
-<div>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+    <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Andre-NPM" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" />
+    <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Andre-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Andre-React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Andre-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Andre-VSCode" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" />
     <img align="center" alt="Andre-Boost" height="29" whidth="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png">
+    
 </div>
