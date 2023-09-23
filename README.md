@@ -1,4 +1,4 @@
-## Meu nome é André , estagiário Front-end!
+## Eu sou André , estagiário Front-end!
 
   <p> 
     Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
