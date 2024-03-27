@@ -1,5 +1,4 @@
-## Eu sou André , estagiário Front-end!
-
+## Eu sou André Victor
   <p> 
     Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
     Disponibilidade em front-end e back-end. <br>
