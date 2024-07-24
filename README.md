@@ -1,3 +1,7 @@
+<div style="position: relative; height: 300px;">
+  <img align="right" alt="ft" height="200"  src="./assets/Java-img.png">
+</div>
+
 ## Eu sou André Victor
   <p> 
     Cursando Análise em Desenvolvimento de Sistemas no IFSP. :triangular_ruler: :books: <br>
