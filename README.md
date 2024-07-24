@@ -53,9 +53,10 @@ Estou em constante aprendizado e procurando oportunidades como Programador.
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreVsc&show_icons=true&theme=github" alt="Estatísticas do GitHub" />
-</div>
+<div align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=AndreVsc&layout=compact&show_icons=true&theme=transparent&count_private=true&hide=contribs&hide_title=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreVsc&layout=compact&langs_count=7&theme=transparent&count_private=true"/>
+  </div>
 
 ## 📧 Contato
 
