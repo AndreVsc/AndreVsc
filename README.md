@@ -29,11 +29,7 @@
 > ## Estou em aberto a oferta de trabalho.
 >
 >**Projetos Pessoais**
-> **Aplicativo React-Native Work(DEV)**
-> > Descrição: Aplicativo de uso pessoal para cuidados diarios em desenvolvimento.
-> > 
-> > Repo: [React-app](https://github.com/AndreVsc/ReactApp)
-> > 
+> >
 > > Tecnologias: react-native , framemotion ,firebase , node , mongoDB , express, nmap.
 > >
 > **Aplicativo React-Native FullStack(DEV)**
