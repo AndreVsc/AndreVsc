@@ -18,7 +18,6 @@
 
  <div align="center" style="flex-direction:row; gap: 40px; margin:10px">
     <img align="center" alt="Andre-Java" height="40" width="50" src="https://icongr.am/devicon/java-plain.svg?size=228&color=be1e1e" />
-    <img align="center" alt="Andre-Java" height="40" width="50" src="https://icongr.am/devicon/kotlin-plain.svg?size=228&color=be1e1e" />
     <img align="center" alt="Andre-Node" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=228&color=currentColor" />
     <img align="center" alt="Andre-React" height="40" width="50" src="https://icongr.am/devicon/react-original.svg?size=228&color=currentColor" />
     <img align="center" alt="Andre-Typescript" height="40" width="50" src="https://icongr.am/devicon/typescript-plain.svg?size=228&color=currentColor" />
