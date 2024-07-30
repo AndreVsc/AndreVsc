@@ -33,7 +33,7 @@
 > **Mobile React-Native API SPTRANS**
 > > Descrição: É uma aplicação voltada a Api olho vivo , podendo navagar entre as linhas e ter noção da localização.
 > > 
-> > Link: [SP-TRANS](https://github.com/AndreVsc/react-native-app-sptrans-api)
+> > Link: [SPTRANS-app](https://github.com/AndreVsc/react-native-app-sptrans-api)
 > > 
 > > Tecnologias: react-native , google-maps-api , react , typescript , api.
 > >
