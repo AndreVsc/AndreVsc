@@ -26,11 +26,16 @@
 
 ## 📈 Experiência
 
-> ## Estou em aberto a oferta de trabalho.
+> ## Estou aberto a oportunidades.
 >
->**Projetos Pessoais**
+> >**Projetos Pessoais**
 > >
-> > Tecnologias: react-native , framemotion ,firebase , node , mongoDB , express, nmap.
+> **Mobile React-Native API SPTRANS**
+> > Descrição: É uma aplicação voltada a Api olho vivo , podendo navagar entre as linhas e ter noção da localização.
+> > 
+> > Link: [SP-TRANS](https://github.com/AndreVsc/react-native-app-sptrans-api)
+> > 
+> > Tecnologias: react-native , google-maps-api , react , typescript , api.
 > >
 > **Aplicativo React-Native FullStack(DEV)**
 > > Descrição: Aplicativo de uso pessoal para cuidados diarios em desenvolvimento.
@@ -52,13 +57,6 @@
 > > Link: [Newbyts.com](https://newbyts.wixsite.com/newbyts)
 > >
 > > Tecnologias: DesingUi/DesingU, Wix, css.
-> >
->**Site Boostrap one page**
-> > Descrição: É uma repaginação do site escolar com integração de uma api e formulários.
-> > 
-> > Link: [Ifex.br](https://andrevsc.github.io/ifex/)
-> > 
-> > Tecnologias: html , css , boostrap.
 > >
 ## 📊 Estatísticas do GitHub
 
