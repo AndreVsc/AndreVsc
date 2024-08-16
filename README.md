@@ -7,11 +7,3 @@
    <img height="150em" src="https://streak-stats.demolab.com/?user=AndreVsc&theme=transparent&count_private=true&locale=pt_BR&show_icons=true)"
 
 </div>
-
-## 📚 Educação
-
-**Instituto Federal de São Paulo (IFSP)**
- 
- - Curso: Tecnico em Informática (Concluido)
-    
- - Curso: Análise e Desenvolvimento de Sistemas (Cursando)
