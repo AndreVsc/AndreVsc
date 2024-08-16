@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=30&duration=4000&pause=800&color=F7F7F7&repeat=false&width=450&lines=Hello%2C+My+last+name+is+Castro!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=30&duration=1000&pause=2000&color=F7F7F7&repeat=false&width=450&lines=Hello%2C+My+last+name+is+Castro!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=4000&pause=800&color=F7F7F7&width=700&lines=Apaixonado+por+tecnologia+e+buscar+solu%C3%A7%C3%B5es+criativas.;Estudando+Desenvolvimento+Android+e+Programa%C3%A7%C3%A3o+Java+%2B+Kotlin.+;Estou+em+constante+aprendizagem.)](https://git.io/typing-svg)
 
